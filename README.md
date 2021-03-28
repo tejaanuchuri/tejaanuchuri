@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I am Teja Anuchuri 👋
 
 <!--
 **tejaanuchuri/tejaanuchuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+My Coding platform And Social Networks profiles :
 - Coding profiles      @    [Codechef](https://www.codechef.com/users/tejaanuchuri)   ||  [Hackerrank](https://www.hackerrank.com/315175710010_CSE?hr_r=1)   || [Hackerearth](https://www.hackerearth.com/@tejaanuchuri)    ||    [Codeforce](https://codeforces.com/profile/tejaanuchuri)   ||   [Leetcode](https://leetcode.com/tejaanuchuri/)  || [Salesforce - TrialHead_Account](https://trailblazer.me/id/anuchuriteja) 
 
 - Social network profiles @ [Linkedin](https://www.linkedin.com/in/tejaanuchuri/)    ||     [Facebook](https://www.facebook.com/ANUCHURITEJA/)    ||   [Instagram](https://www.instagram.com/teja_anuchuri/)   || [Github](https://github.com/tejaanuchuri/tejaanuchuri)
