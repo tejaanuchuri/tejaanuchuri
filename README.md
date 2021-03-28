@@ -40,3 +40,11 @@ Projects :
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
    
    
+Achievements :
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- Completed Problem Solving( Intermediate) in Hackerrank. [Certificate Link](https://www.hackerrank.com/certificates/9438053a370d)
+- Completed C language course in Udemy. [Certificate Link](https://udemy-certificate.s3.amazonaws.com/image/UC-44d4ada6-cbdb-42f5-b404-98e62d716c38.jpg)
+- Completed C++ language course in Udemy.[Certificate Link](https://udemy-certificate.s3.amazonaws.com/pdf/UC-30a939af-35a2-4126-898e-c892914d64fd.pdf)
+- Completed Html5 Course in Udemy. [Certificate Link](https://udemy-certificate.s3.amazonaws.com/pdf/UC-e0f1c7f2-1a0b-42ad-ad15-069769f48dc8.pdf)
+- Completed CSS Course in Udemy. [Certificate Link](https://udemy-certificate.s3.amazonaws.com/pdf/UC-6da0e830-e20b-454e-9b27-fdde3fcb7618.pdf)
+- Completed Version-Control course in Udemy. [Certificate Link](https://udemy-certificate.s3.amazonaws.com/pdf/UC-aea1b426-bec6-40f2-81ff-cdf75fbdc015.pdf)
