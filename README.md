@@ -1,4 +1,4 @@
-### Hi I am Teja 👋
+# Hi I am Teja 👋
 
 <!--
 **tejaanuchuri/tejaanuchuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Technologies Known : 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+> Programming Languages  : C, C++, Javascript. <br/>
+> Web technologies       : Html,Cascading Style Sheets. <br/>
+> Subjects              : Data structure,Salesforce, Object-oriented programming.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 My Coding platform And Social Networks profiles :
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
