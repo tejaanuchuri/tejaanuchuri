@@ -24,16 +24,16 @@ Here are some ideas to get you started:
 
 Projects :
 
-1. Project Title : Incident Management System 
-   Description : It is the Process responsible for managing the life cycle of all Incidents. Incidents may be recognized by technical staff, detected and reported by
-                 event monitoring tools, communications from users usually via a mailed ,phone call to the service desk, web chat.
+1. -Project Title  : Incident Management System 
+   -Description    : It is the Process responsible for managing the life cycle of all Incidents. Incidents may be recognized by technical staff, detected and reported by
+                     -event monitoring tools, communications from users usually via a mailed ,phone call to the service desk, web chat.
                 
-2. Project Title  : Diabetes.
-   Description    : To Predict whether a person has diabetes or not using machine learning.
-   Project link   : [Diabetes Project Link](https://github.com/tejaanuchuri/Diabetes)
+2. -Project Title  : Diabetes.
+   -Description    : To Predict whether a person has diabetes or not using machine learning.
+   -Project link   : [Diabetes Project Link](https://github.com/tejaanuchuri/Diabetes)
    
-3. Project Title  : Online Quiz
-   Description    : Conducting quiz online with a given time limit.
-   Project Source : [Quiz Project Link] (https://github.com/tejaanuchuri/Quiz)
+3. -Project Title  : Online Quiz
+   -Description    : Conducting quiz online with a given time limit.
+   -Project Source : [Quiz Project Link] (https://github.com/tejaanuchuri/Quiz)
    
    
