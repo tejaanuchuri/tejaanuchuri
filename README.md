@@ -27,8 +27,7 @@ My Coding platform And Social Networks profiles :
 Projects :
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  > 1. Project Title  : Incident Management System 
- ><br/>Description  : It is the Process responsible for managing the life cycle of all Incidents. Incidents may be recognized by technical staff, detected and reported by
-                     <br/> event monitoring tools, communications from users usually via a mailed ,phone call to the service desk, web chat.    
+ ><br/>Description  : It is the Process responsible for managing the life cycle of all Incidents. Incidents may be recognized by technical staff, detected and reported by event monitoring tools, communications from users usually via a mailed ,phone call to the service desk, web chat.    
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 > 2. Project Title    : Diabetes
 ><br/>Description    : To Predict whether a person has diabetes or not using machine learning
