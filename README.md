@@ -34,7 +34,7 @@ Projects :
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------   
 - Project Title  : Online Quiz
 - Description    : Conducting quiz online with a given time limit
-- Project Source : [Quiz Project Link] (https://github.com/tejaanuchuri/Quiz)
+- Project Source : [Quiz Project Link](https://github.com/tejaanuchuri/Quiz)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
    
    
