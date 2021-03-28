@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My Coding platform And Social Networks profiles :
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - Coding profiles      @    [Codechef](https://www.codechef.com/users/tejaanuchuri)   ||  [Hackerrank](https://www.hackerrank.com/315175710010_CSE?hr_r=1)   || [Hackerearth](https://www.hackerearth.com/@tejaanuchuri)    ||    [Codeforce](https://codeforces.com/profile/tejaanuchuri)   ||   [Leetcode](https://leetcode.com/tejaanuchuri/)  || [Salesforce - TrialHead_Account](https://trailblazer.me/id/anuchuriteja) 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 - Social network profiles @ [Linkedin](https://www.linkedin.com/in/tejaanuchuri/)    ||     [Facebook](https://www.facebook.com/ANUCHURITEJA/)    ||   [Instagram](https://www.instagram.com/teja_anuchuri/)   || [Github](https://github.com/tejaanuchuri/tejaanuchuri)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -48,3 +48,4 @@ Achievements :
 - Completed Html5 Course in Udemy. [Certificate Link](https://udemy-certificate.s3.amazonaws.com/pdf/UC-e0f1c7f2-1a0b-42ad-ad15-069769f48dc8.pdf)
 - Completed CSS Course in Udemy. [Certificate Link](https://udemy-certificate.s3.amazonaws.com/pdf/UC-6da0e830-e20b-454e-9b27-fdde3fcb7618.pdf)
 - Completed Version-Control course in Udemy. [Certificate Link](https://udemy-certificate.s3.amazonaws.com/pdf/UC-aea1b426-bec6-40f2-81ff-cdf75fbdc015.pdf)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
