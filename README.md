@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 Technologies Known : 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-> Programming Languages  : C, C++, Javascript. 
-> Web technologies       : Html,Cascading Style Sheets. 
+> Programming Languages  : C, C++, Javascript. <br/>
+> Web technologies       : Html,Cascading Style Sheets. <br/>
 > Subjects              : Data structure,Salesforce, Object-oriented programming.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
