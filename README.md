@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 Technologies Known : 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-> Programming Languages  : C, C++, Javascript. <br/>
+> Programming Languages  : C, C++,C#, Javascript. <br/>
 > Web technologies       : Html,Cascading Style Sheets. <br/>
-> Subjects              : Data structure,Salesforce, Object-oriented programming.
+> Subjects               : Data structure, Salesforce, Structure Query Language, Software Developmet Life Cycle, Object-oriented programming Language.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -50,6 +50,7 @@ Achievements :
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 > - Completed Machine learning engineer nano-degree in Udacity. [Certificate Link](https://graduation.udacity.com/confirm/RKP9PFUV)
 > - Completed Problem Solving( Intermediate) in Hackerrank. [Certificate Link](https://www.hackerrank.com/certificates/9438053a370d)
+> - Completed Javascript in Hackerrank. [Certificate Link](https://www.hackerrank.com/certificates/6825b358ba6d)
 > - Completed SQL (Basic) in Hackerrank. [Certificate Link](https://www.hackerrank.com/certificates/eb3ecf27f700)
 > - Completed C language course in Udemy. [Certificate Link](https://udemy-certificate.s3.amazonaws.com/image/UC-44d4ada6-cbdb-42f5-b404-98e62d716c38.jpg)
 > - Completed C++ language course in Udemy.[Certificate Link](https://udemy-certificate.s3.amazonaws.com/pdf/UC-30a939af-35a2-4126-898e-c892914d64fd.pdf)
