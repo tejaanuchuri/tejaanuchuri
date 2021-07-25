@@ -34,15 +34,20 @@ My Coding platform And Social Networks profiles :
 Projects :
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  > 1. Project Title  : Incident Management System 
- ><br/>Description  : It is the Process responsible for managing the life cycle of all Incidents. Incidents may be recognized by technical staff, detected and reported by event monitoring tools, communications from users usually via a mailed ,phone call to the service desk, web chat.    
+ ><br/>Description   : It is the Process responsible for managing the life cycle of all Incidents. Incidents may be recognized by technical staff, detected and reported by event monitoring tools, communications from users usually via a mailed ,phone call to the service desk, web chat.    
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-> 2. Project Title    : Diabetes
+> 2. Project Title   : Diabetes
 ><br/>Description    : To Predict whether a person has diabetes or not using machine learning
 ><br/>Project link   : [Diabetes Project Link](https://github.com/tejaanuchuri/Diabetes)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------   
-> 3. Project Title    : Online Quiz
+> 3. Project Title   : Online Quiz
 ><br/>Description    : Conducting quiz online with a given time limit
 ><br/>Project Source : [Quiz Project Link](https://github.com/tejaanuchuri/Quiz)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+> 4. Project Title   : Employee Admin desktop Application
+><br/>Description    : Admin can insert,delete,search,update perform all operations using microsoft foundation class(MFC).
+><br/>Project Source : [Employee Admin desktop Application](https://github.com/tejaanuchuri/Employee-Admin-App)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
    
    
