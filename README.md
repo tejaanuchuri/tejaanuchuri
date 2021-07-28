@@ -46,7 +46,7 @@ Projects :
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
 > 4. Project Title   : Employee Admin desktop Application
-><br/>Description    : Admin can insert,delete,search,update perform all operations using microsoft foundation class(MFC).
+><br/>Description    : Admin can insert,delete,search,update of Employee Record perform all operations using microsoft foundation class(MFC) and using line graph and bar     <br/>                       graph to display employee record in graphical representation.
 ><br/>Project Source : [Employee Admin desktop Application](https://github.com/tejaanuchuri/Employee-Admin-App)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
    
