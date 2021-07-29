@@ -18,7 +18,7 @@ Technologies Known :
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 > Programming Languages  : C, C++,C#, Javascript. <br/>
 > Web technologies       : Html,Cascading Style Sheets. <br/>
-> Subjects               : Data structure, Salesforce, Structure Query Language, Software Developmet Life Cycle, Object-oriented programming Language.
+> Subjects               : Data structure, Salesforce, Structure Query Language, Software Developmet Life Cycle, Object-oriented programming Language, Microsoft Foundation Class.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
