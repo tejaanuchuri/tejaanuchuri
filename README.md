@@ -65,6 +65,7 @@ Achievements :
 > - Completed NQT Cognitive Subject Course in TCS NQT Test. [Certificate Link](https://drive.google.com/file/d/1ZkcfIRRqJ1Z35bBcAPUXpxlK3QKTk5Ug/view?usp=sharing)
 > - Completed NQT Programming Subject Course in TCS NQT Test. [Certificate Link](https://drive.google.com/file/d/1J40U1Jzg128uQ-hdi7yv25qZIrf0hquN/view?usp=sharing)
 > - Participating in the Qualification Round of the [2021 Facebook Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup/2021/certificate/711797262986024).
+> - Participating in the Round - 1 of the [2020 Facebook Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup/2020/certificate/283478162729176).
 > - Participating in the Qualification Round of the [2020 Facebook Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup/2020/certificate/711797262986024).
 > - Participating in the Qualification Round of the [2018 Facebook Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup/2018/certificate/711797262986024).
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
