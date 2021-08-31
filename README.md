@@ -64,4 +64,7 @@ Achievements :
 > - Completed Version-Control course in Udemy. [Certificate Link](https://udemy-certificate.s3.amazonaws.com/pdf/UC-aea1b426-bec6-40f2-81ff-cdf75fbdc015.pdf)
 > - Completed NQT Cognitive Subject Course in TCS NQT Test. [Certificate Link](https://drive.google.com/file/d/1ZkcfIRRqJ1Z35bBcAPUXpxlK3QKTk5Ug/view?usp=sharing)
 > - Completed NQT Programming Subject Course in TCS NQT Test. [Certificate Link](https://drive.google.com/file/d/1J40U1Jzg128uQ-hdi7yv25qZIrf0hquN/view?usp=sharing)
+> - Participating in the Qualification Round of the [2021 Facebook Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup/2021/certificate/711797262986024).
+> - Participating in the Qualification Round of the [2020 Facebook Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup/2020/certificate/711797262986024).
+> - Participating in the Qualification Round of the [2018 Facebook Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup/2019/certificate/711797262986024).
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
