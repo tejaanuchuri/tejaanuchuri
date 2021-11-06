@@ -61,6 +61,7 @@ Achievements :
 > - Completed C++ language course in Udemy.[Certificate Link](https://udemy-certificate.s3.amazonaws.com/pdf/UC-30a939af-35a2-4126-898e-c892914d64fd.pdf)
 > - Completed Html5 Course in Udemy. [Certificate Link](https://udemy-certificate.s3.amazonaws.com/pdf/UC-e0f1c7f2-1a0b-42ad-ad15-069769f48dc8.pdf)
 > - Completed CSS Course in Udemy. [Certificate Link](https://udemy-certificate.s3.amazonaws.com/pdf/UC-6da0e830-e20b-454e-9b27-fdde3fcb7618.pdf)
+> - Completed Salesforce Course in Intellipaat. [Certificate Link](https://lms.intellipaat.com/certificate-link/?Yz0zNDI1NzYmdT0xMTMwMjUmZXh0PTE=)
 > - Completed Version-Control course in Udemy. [Certificate Link](https://udemy-certificate.s3.amazonaws.com/pdf/UC-aea1b426-bec6-40f2-81ff-cdf75fbdc015.pdf)
 > - Completed NQT Cognitive Subject Course in TCS NQT Test. [Certificate Link](https://drive.google.com/file/d/1ZkcfIRRqJ1Z35bBcAPUXpxlK3QKTk5Ug/view?usp=sharing)
 > - Completed NQT Programming Subject Course in TCS NQT Test. [Certificate Link](https://drive.google.com/file/d/1J40U1Jzg128uQ-hdi7yv25qZIrf0hquN/view?usp=sharing)
