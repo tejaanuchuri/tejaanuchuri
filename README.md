@@ -71,4 +71,5 @@ Achievements :
 > - Participated in the Round - 1 of the [2020 Facebook Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup/2020/certificate/283478162729176).
 > - Participated in the Qualification Round of the [2020 Facebook Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup/2020/certificate/711797262986024).
 > - Participated in the Qualification Round of the [2018 Facebook Hacker Cup](https://www.facebook.com/codingcompetitions/hacker-cup/2018/certificate/711797262986024).
+> - Participated in Online 1B Round of Global Programming Competition [SnackDown 2019](https://www.codechef.com/certificates/public/34362e2).
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
