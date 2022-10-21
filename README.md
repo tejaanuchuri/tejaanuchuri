@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Technologies Known : 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-> Programming Languages  : C, C++,C#, Javascript. <br/>
+> Programming Languages  : C, C++, CLR, C#, Javascript. <br/>
 > Web technologies       : Html,Cascading Style Sheets. <br/>
 > Subjects               : Data structure, Salesforce, Structure Query Language, Software Developmet Life Cycle, Object-oriented programming Language, Microsoft Foundation Class.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
