@@ -53,7 +53,7 @@ Projects :
    
 Achievements :
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-> - Completed Machine learning engineer nano-degree in Udacity. [Certificate Link](https://graduation.udacity.com/confirm/RKP9PFUV)
+> - Udacity certified me as a machine learning engineer nano-degree. [Certificate Link](https://graduation.udacity.com/confirm/RKP9PFUV)
 > - Completed Problem Solving( Intermediate) in Hackerrank. [Certificate Link](https://www.hackerrank.com/certificates/9438053a370d)
 > - Completed Javascript in Hackerrank. [Certificate Link](https://www.hackerrank.com/certificates/6825b358ba6d)
 > - Completed SQL (Basic) in Hackerrank. [Certificate Link](https://www.hackerrank.com/certificates/eb3ecf27f700)
